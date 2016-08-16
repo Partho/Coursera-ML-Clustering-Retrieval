@@ -6,3 +6,5 @@ Consist of iPython notebooks with implementation of clustering Algorithms like k
 Course conducted by Professor Emily Fox of University of Washington.
 
 Following is the certificate received:
+
+![Certificate](https://raw.githubusercontent.com/parthoiiitm/Coursera-ML-Clustering_Retrieval/master/Clustering_certificate.png)
