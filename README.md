@@ -7,4 +7,4 @@ Course conducted by Professor Emily Fox of University of Washington.
 
 Following is the certificate received:
 
-![Certificate](https://raw.githubusercontent.com/parthoiiitm/Coursera_ML_Clustering_Retrieval/master/Clustering_certificate.png)
+![Certificate](https://raw.githubusercontent.com/parthoiiitm/Coursera-ML-Clustering-Retrieval/master/Clustering_certificate.png)
